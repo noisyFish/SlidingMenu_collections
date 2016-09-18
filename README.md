@@ -1,2 +1,2 @@
-# SlidngMenu_collections
+# SlidingMenu_collections
 A collection contains common SlidingMenus.
